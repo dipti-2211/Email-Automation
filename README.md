@@ -36,7 +36,7 @@ Below is the architectural flow of the automation. This diagram illustrates how 
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/dipti-2211/Email-Automation.git](https://github.com/dipti-2211/Email-Automation.git)
+   git clone https://github.com/dipti-2211/Email-Automation.git
 
 ### Import Workflow:
 
